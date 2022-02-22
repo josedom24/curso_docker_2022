@@ -1,8 +1,8 @@
 
 remote_theme: pmarsceill/just-the-docs 
 title: Docker
-description: Curso "Introducción a  docker" para el CEP de Zafra - Abril 2021
-color_scheme: dark
+description: Curso "Introducción a  Docker" para el CPR de Badajoz - Abril 2022
+color_scheme: mitema
 
 earch_enabled: true
 search:
