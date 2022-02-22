@@ -38,4 +38,4 @@ aux_links:
 back_to_top: true
 back_to_top_text: Inicio
 
-footer_content: "Esta documentación tiene licencia <a href=\"https://github.com/josedom24/curso_docker_2022/blob/main/LICENSE">GNU General Public License v2.0</a>"
+footer_content: "Esta documentación tiene licencia <a href=\"https://github.com/josedom24/curso_docker_2022/blob/main/LICENSE\">GNU General Public License v2.0</a>"
