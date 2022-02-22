@@ -7,7 +7,7 @@ nav_order: 1
 # Introducción a Docker
 {: .fs-9 }
 
-Curso "Introducción a Docker" desarrollado para el CPR de Badajoz (Abril 2022).
+Desarrollado para el CPR de Badajoz (Abril 2022).
 {: .fs-6 .fw-300 }
 
 ## Objetivos
