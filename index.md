@@ -7,14 +7,8 @@ nav_order: 1
 # Introducción a Docker
 {: .fs-9 }
 
-Curso "Introducción a Docker" desarrollado para el CPR de Zafra (Abril 2021).
+Curso "Introducción a Docker" desarrollado para el CPR de Badajoz (Abril 2022).
 {: .fs-6 .fw-300 }
-
-## Actualización de este curso
-
-**Este curso se desarrolló en Abril de 2021 para el CPR de Zafra. Sin embargo, se realizan modificaciones para intentar que el curso este actualizado.**
-
-Si quieres obtener el contenido original del curso puedes acceder a la rama `original` del [repositorio en GitHub](https://github.com/iesgn/curso_docker_2021/tree/original).
 
 ## Objetivos
 
@@ -32,6 +26,9 @@ Si quieres obtener el contenido original del curso puedes acceder a la rama `ori
 
 ## Contenidos
 
+<!--
+
+
 * [Sesión 1: Introducción a los contenedores y a Docker](sesion1)
 * [Sesión 2: Trabajando con imágenes docker](sesion2)
 * [Sesión 3: Almacenamiento en docker](sesion3)
@@ -39,3 +36,4 @@ Si quieres obtener el contenido original del curso puedes acceder a la rama `ori
 * [Sesión 5: Creando escenarios multicontenedor con docker-compose](sesion5)
 * [Sesión 6: Creación de imágenes en docker](sesion6)
 
+->
