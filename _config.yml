@@ -2,7 +2,7 @@
 remote_theme: pmarsceill/just-the-docs 
 title: Docker
 description: Curso "Introducción a  docker" para el CEP de Zafra - Abril 2021
-color_scheme: nil
+color_scheme: dark
 
 earch_enabled: true
 search:
@@ -32,10 +32,10 @@ search:
 # Aux links for the upper right navigation
 aux_links:
   "Accede al repositorio en GitHub":
-    - "//github.com/iesgn/curso_docker_2021"
+    - "//github.com/josedom24/curso_docker_2022"
 
 # Back to top link
 back_to_top: true
 back_to_top_text: Inicio
 
-footer_content: "Esta documentación tiene licencia <a href=\"https://www.gnu.org/licenses/gpl-3.0.html\">GNU General Public License v2.0</a>"
+footer_content: "Esta documentación tiene licencia <a href=\"https://github.com/josedom24/curso_docker_2022/blob/main/LICENSE">GNU General Public License v2.0</a>"

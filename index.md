@@ -26,14 +26,3 @@ Curso "Introducción a Docker" desarrollado para el CPR de Badajoz (Abril 2022).
 
 ## Contenidos
 
-<!--
-
-
-* [Sesión 1: Introducción a los contenedores y a Docker](sesion1)
-* [Sesión 2: Trabajando con imágenes docker](sesion2)
-* [Sesión 3: Almacenamiento en docker](sesion3)
-* [Sesión 4: Redes en docker](sesion4)
-* [Sesión 5: Creando escenarios multicontenedor con docker-compose](sesion5)
-* [Sesión 6: Creación de imágenes en docker](sesion6)
-
-->
