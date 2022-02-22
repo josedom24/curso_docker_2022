@@ -5,7 +5,7 @@ nav_order: 2
 has_children: true
 ---
 
-{: lg }
+{: xl }
 
 # Introducción a los contenedores y a Docker
 
