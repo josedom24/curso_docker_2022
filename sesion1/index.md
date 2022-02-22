@@ -19,5 +19,4 @@ Para empezar el curso vamos a estudiar los conceptos principales con estas dos p
 * [Página oficial](https://www.docker.com/)
 * [Documentación oficial](https://docs.docker.com/)
 * [Docker Hub](https://hub.docker.com/)
-
 * [Introducción a Docker - CPR de Zafra (Abril de 2021)](https://iesgn.github.io/curso_docker_2021/)
