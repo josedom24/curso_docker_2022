@@ -10,6 +10,18 @@ nav_order: 1
 Desarrollado para el CPR de Badajoz (Abril 2022).
 {: .fs-6 .fw-300 }
 
+## Justificación
+
+En los últimos años se ha ido extendiendo el uso de contenedores como elementos esenciales para el uso de aplicaciones en entornos en producción, tanto más cuanto más variable sea la demanda, la frecuencia con la que se actualizan o la necesidad de que funcionen de forma ininterrumpida.
+
+Gestionar una aplicación sobre contenedores, que pueda actualizarse rápidamente, que sea escalable o tolerante a fallos, es una tarea compleja que se realiza mediante un software específico. 
+
+Docker es una empresa (Docker Inc.) que desarrolla un software con el mismo nombre, de forma más concreta el software denominado (docker engine), que ha supuesto una revolución en el desarrollo de software, muy ligado al uso de contenedores de aplicaciones, a las aplicaciones web y al desarrollo ágil.
+
+Docker permite gestionar contenedores a alto nivel, proporcionando todas las capas y funcionalidad adicional y, lo más importante de todo, es que proporciona un nuevo paradigma en la forma de distribuir las aplicaciones, ya que se crean imágenes en contenedores que se distribuyen, de manera que el contenedor que se ha desarrollado es idéntico al que se utiliza en producción y deja de instalarse la aplicación de forma tradicional.
+
+En este curso se va introducir el concepto de la puesta en producción de aplicaciones web usando contenedores Docker.
+
 ## Objetivos
 
 * Conocer las ventajas que nos proporciona el uso de la tecnología de contenedores.
@@ -82,3 +94,17 @@ Sesión 5: Creación de imágenes en Docker
 * Ejemplo 2: Construcción de imágenes con una una aplicación PHP
 * Ejemplo 3: Construcción de imágenes con una una aplicación Python
 * Ciclo de vida de las aplicaciones 
+
+## Metodología
+
+El curso está pensado como una secuencia de complejidad creciente, en la que se irán introduciendo los diferentes elementos de Docker, hasta llegar a poder gestionar completamente el ciclo de vida de una aplicación en un entorno en producción.
+
+En el curso se introducirán los conceptos más fundamentales de esta tecnología y se realizaran ejercicios prácticos de todos los elementos estudiados.
+
+En la sesión inicial se hará una presentación un poco más teórica de los conceptos de contenedores y de la tecnología ofrecida por Docker, para  a continuación ir estudiando todos los contenidos del curso por medio de la realización de actividades y ejercicios.
+
+Los materiales ofrecidos en el curso serna:
+
+* Una página web con todos los contenidos que vamos a estudiar.
+* Cinco videoconferencias donde se desarrollaran los distintos contenidos estudiados.
+
