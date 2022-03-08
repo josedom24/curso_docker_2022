@@ -9,9 +9,9 @@ parent: Imágenes
 
 La mediawiki en una aplicación web escrita en PHP que nos permite gestionar una wiki. En este ejemplo vamos a hacer un ejemplo simple de despliegue en contenedor usando la imagen [`mediawiki`](https://hub.docker.com/_/mediawiki) que encontramos en DockerHub. 
 
-En este ejemplo nos vamos a fijar cómo por medio de la etiqueta del nombre de la imágen podemos tener distintas versiones de la aplicación.
+En este ejemplo nos vamos a fijar cómo por medio de la etiqueta del nombre de la imagen podemos tener distintas versiones de la aplicación.
 
-En concretos, si estudiamos la [documentación](https://hub.docker.com/_/mediawiki) de la imagen `mediawiki`, podemos ver las etiquetas disponibles para la imagen que corresponden a versiones distintas de la aplicación.
+En concreto, si estudiamos la [documentación](https://hub.docker.com/_/mediawiki) de la imagen `mediawiki`, podemos ver las etiquetas disponibles para la imagen que corresponden a versiones distintas de la aplicación.
 
 ## La etiqueta `latest`
 
@@ -25,7 +25,7 @@ Otro ejemplo: si usamos la etiqueta `1.37.1-fpm-alpine`, además de la última v
 
 ## Instalación de distintas versiones de la mediawiki
 
-Vamos a crear distintos contenedores usando etiquetas distintas al indicar el nombre de la imagen, posteriormente accedermos a la aplicación y podremos ver la versión instalada:
+Vamos a crear distintos contenedores usando etiquetas distintas al indicar el nombre de la imagen, posteriormente accederemos a la aplicación y podremos ver la versión instalada:
 
 En primer lugar vamos a instalar la última versión:
 
@@ -33,11 +33,9 @@ En primer lugar vamos a instalar la última versión:
 docker run -d -p 8080:80 --name mediawiki1 mediawiki
 ```
 
-Si accedemos a la ip de nuestro ordenador, al puerto 8080, podemos observar que hemos instalado la versión 1.35.1:
+Si accedemos a la ip de nuestro ordenador, al puerto 8080, podemos observar que hemos instalado la versión 1.37.1:
 
 ![mediawiki](img/mediawiki1.png)
-
-**Nota: En el momento de instalar la última versión de mediawiki (Enero 2022), al acceder a la aplicación se visualiza unos errores de PHP**
 
 A continuación vamos a instalar otra versión de la mediawiki, la 1.36.3, creamos otro contenedor con otro nombre y mapeamos otro puerto:
 
@@ -49,15 +47,13 @@ Si accedemos a la ip de nuestro ordenador, al puerto 8081, podemos observar que 
 
 ![mediawiki](img/mediawiki2.png)
 
-**Nota: En el momento de instalar esta versión de mediawiki (Enero 2022), al acceder a la aplicación se visualiza unos errores de PHP**
-
 Y finalmente vamos a instalar otra versión en otro contenedor:
 
 ```bash
 docker run -d -p 8082:80 --name mediawiki3 mediawiki:1.35.5
 ```
 
-Si accedemos a la ip de nuestro ordenador, al puerto 8082, podemos observar que hemos instalado la versión 1.31.12:
+Si accedemos a la ip de nuestro ordenador, al puerto 8082, podemos observar que hemos instalado la versión 1.35.5:
 
 ![mediawiki](img/mediawiki3.png)
 
