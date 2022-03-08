@@ -10,7 +10,7 @@ Desarrollado para el CPR de Badajoz (Abril 2022).
 {: .fs-6 .fw-300 }
 
 ![docker](sesion1/img/docker.png)
-{: flex-justify-start}
+{: mx-auto}
 
 ## Justificación
 
