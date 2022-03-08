@@ -24,3 +24,14 @@ Cuando instalamos docker tenemos las siguientes redes predefinidas:
 * Red de tipo bridge
 * Red de tipo host
 * Red de  tipo none
+
+
+-----
+* Ejemplo almacenamiento: mariadb (quizás no, porque vamos a ver ejemplo 3 wordpress + mariadb)
+* Tipos de redes en docker (con parte de Introducción a las redes)
+* Redes definidas por el usuario (Gestionando las redes en docker y Uso de las redes bridge definidas por el usuario)
+* Ejemplo 1
+* Ejemplo 2
+* Ejemplo 3
+
+
