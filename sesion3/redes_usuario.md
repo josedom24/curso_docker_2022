@@ -108,7 +108,7 @@ Podemos conectar "en caliente" un contenedor a una nueva red con:
 ```
 docker network connect <red> <contenedor>
 ```
-PAra desconectarla de una red podemos usar: `docker network disconnect`.
+Para desconectarla de una red podemos usar: `docker network disconnect`.
 
 Tanto al crear un contenedor con el flag `--network`, como con la instrucción `docker network connect`, podemos usar algunos otros flags:
 
