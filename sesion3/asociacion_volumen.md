@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Asociando almacenamiento a los contenedores: volúmenes docker"
+title: "Asociando almacenamiento a los contenedores: volúmenes Docker"
 nav_order: 2
 parent: Almacenamiento y Redes
 ---
 
-## Asociando almacenamiento a los contenedores
+# Asociando almacenamiento a los contenedores: volúmenes Docker
 
 Veamos como puedo usar los volúmenes y los bind mounts en los contenedores. Aunque dos formas de asociar el almacenamiento al contenedor nosotros vamos a usar el flag `--volume` o `-v`.
 

@@ -5,6 +5,8 @@ nav_order: 3
 parent: Almacenamiento y Redes
 ---
 
+# Asociando almacenamiento a los contenedores: bind mount
+
 ## Ejemplo: montando directorios usando bind mount
 
 En este caso vamos a crear un directorio en el sistema de archivo del host, donde vamos a crear un fichero `index.html`:

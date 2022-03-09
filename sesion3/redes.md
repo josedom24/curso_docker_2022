@@ -1,11 +1,13 @@
 ---
 layout: default
-title: "Redes en docker"
+title: "Redes en Docker"
 nav_order: 4
 parent: Almacenamiento y Redes
 ---
 
-## Redes en docker
+# Redes en Docker
+
+## Tipos de redes en Docker
 
 Cuando instalamos docker tenemos las siguientes redes predefinidas:
 
