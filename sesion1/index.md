@@ -9,9 +9,8 @@ has_children: true
 
 Docker es una tecnología de virtualización "ligera" cuyo elemento básico es la utilización de contenedores en vez de máquinas virtuales y cuyo objetivo principal es el despliegue de aplicaciones encapsuladas en dichos contenedores.
 
-Para empezar el curso vamos a estudiar los conceptos principales con estas dos presentaciones:
+Para empezar el curso vamos a estudiar los conceptos principales de Docker:
 
-* [Introducción a los contenedores](pdf/introduccion_contenedores.pdf)
 * [Introducción a Docker](pdf/introduccion_docker.pdf)
 
 ## Documentación oficial y enlaces de interés
