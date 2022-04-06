@@ -50,12 +50,12 @@ En este curso se va introducir el concepto de la puesta en producción de aplica
 
 El curso está pensado como una secuencia de complejidad creciente, en la que se irán introduciendo los diferentes elementos de Docker, hasta llegar a poder gestionar completamente el ciclo de vida de una aplicación en un entorno en producción.
 
-En el curso se introducirán los conceptos más fundamentales de esta tecnología y se realizaran ejercicios prácticos de todos los elementos estudiados.
+En el curso se introducirán los conceptos más fundamentales de esta tecnología y se realizarán ejercicios prácticos de todos los elementos estudiados.
 
-En la sesión inicial se hará una presentación un poco más teórica de los conceptos de contenedores y de la tecnología ofrecida por Docker, para  a continuación ir estudiando todos los contenidos del curso por medio de la realización de actividades y ejercicios.
+En la sesión inicial se hará una presentación un poco más teórica de los conceptos de contenedores y de la tecnología ofrecida por Docker, para a continuación ir estudiando todos los contenidos del curso por medio de la realización de actividades y ejercicios.
 
-Los materiales ofrecidos en el curso serna:
+Los materiales ofrecidos en el curso serán:
 
 * Una página web con todos los contenidos que vamos a estudiar.
-* Cinco videoconferencias donde se desarrollaran los distintos contenidos estudiados.
+* Cinco videoconferencias donde se desarrollarán los distintos contenidos estudiados.
 
