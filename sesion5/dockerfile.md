@@ -87,7 +87,7 @@ Para crear la imagen uso el comando `docker build`, indicando el nombre de la nu
 $ docker build -t josedom24/myapache2:v2 .
 ...
 ```
-> Nota: Pongo como directorio el `.` poruqe estoy ejecutando esta instrucción dentro del directorio donde está el `Dockerfile`.
+> Nota: Pongo como directorio el `.` porque estoy ejecutando esta instrucción dentro del directorio donde está el `Dockerfile`.
 
 
 Una vez terminado, podríamos ver que hemos generado una nueva imagen:
