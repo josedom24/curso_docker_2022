@@ -6,7 +6,7 @@ parent: Escenarios multicontenedor
 ---
 # Ejemplo 1: Despliegue de la aplicación guestbook
 
-En este ejemplo vamos a desplegar con docker-compose la aplicación *guestbook*, que estudiamos en el módulo de redes: [Ejemplo 1: Despliegue de la aplicación Guestbook](../sesion4/guestbook.html).
+En este ejemplo vamos a desplegar con docker-compose la aplicación *guestbook*, que estudiamos en el módulo de redes: [Ejemplo 1: Despliegue de la aplicación Guestbook](../sesion3/guestbook.html).
 
 Puedes encontrar el fichero `docker-compose.yml` en en este [directorio](https://github.com/josedom24/curso_docker_2022/tree/main/ejemplos/sesion4/ejemplo1) del repositorio. 
 

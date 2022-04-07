@@ -7,7 +7,7 @@ parent: Escenarios multicontenedor
 
 # Ejemplo 2: Despliegue de la aplicación Temperaturas
 
-En este ejemplo vamos a desplegar con docker-compose la aplicación *Temperaturas*, que estudiamos en el módulo de redes: [Ejemplo 2: Despliegue de la aplicación Temperaturas](../sesion4/temperaturas.html).
+En este ejemplo vamos a desplegar con docker-compose la aplicación *Temperaturas*, que estudiamos en el módulo de redes: [Ejemplo 2: Despliegue de la aplicación Temperaturas](../sesion3/temperaturas.html).
 
 Puedes encontrar el fichero `docker-compose.yml` en en este [directorio](https://github.com/josedom24/curso_docker_2022/tree/main/ejemplos/sesion4/ejemplo2) del repositorio. 
 
