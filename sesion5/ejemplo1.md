@@ -6,7 +6,7 @@ parent: Creación de imágenes
 ---
 # Ejemplo 1: Construcción de imágenes con una página estática
 
-En este ejemplo vamos a crear una imágen con una página estática. Vamos a crear tres versiones de la imagen, y puedes encontrar los ficheros en este [directorio](https://github.com/iesgn/curso_docker_2021/tree/main/ejemplos/sesion6/ejemplo1) del repositorio.
+En este ejemplo vamos a crear una imágen con una página estática. Vamos a crear tres versiones de la imagen, y puedes encontrar los ficheros en este [directorio](https://github.com/josedom24/curso_docker_2021/tree/main/ejemplos/sesion6/ejemplo1) del repositorio.
 
 ## Versión 1: Desde una imagen base
 
