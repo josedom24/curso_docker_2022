@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Ejemplo 2: Despliegue de la aplicación Temperaturas"
-nav_order: 9
-parent: Redes
+nav_order: 7
+parent: Almacenamiento y Redes
 ---
 
 # Ejemplo 2: Despliegue de la aplicación Temperaturas
