@@ -17,21 +17,21 @@ root@2bfa404bace0:/#
 El contenedor se para cuando salimos de él. Para volver a conectarnos a él:
 
 ```bash
-$ docker start contendor1
-contendor1
-$ docker attach contendor1
+$ docker start contenedor1
+contenedor1
+$ docker attach contenedor1
 root@2bfa404bace0:/#
 ```
 
 Si el contenedor se está ejecutando podemos ejecutar comandos en él con el subcomando `exec`:
 
 ```bash
-$ docker start contendor1
-contendor1
+$ docker start contenedor1
+contenedor1
 $ docker exec contenedor1 ls -al
 ```
 
-Con la orden `docker restart` reiniciamos el contendor, lo paramos y lo iniciamos.
+Con la orden `docker restart` reiniciamos el contenedor, lo paramos y lo iniciamos.
 
 Para mostrar información de un contenedor ejecutamos `docker inspect`:
 
