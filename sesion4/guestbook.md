@@ -8,7 +8,7 @@ parent: Escenarios multicontenedor
 
 En este ejemplo vamos a desplegar con docker-compose la aplicación *guestbook*, que estudiamos en el módulo de redes: [Ejemplo 1: Despliegue de la aplicación Guestbook](../sesion4/guestbook.html).
 
-Puedes encontrar el fichero `docker-compose.yml` en en este [directorio](https://github.com/iesgn/curso_docker_2022/tree/main/ejemplos/sesion4/ejemplo1) del repositorio. 
+Puedes encontrar el fichero `docker-compose.yml` en en este [directorio](https://github.com/josedom24/curso_docker_2022/tree/main/ejemplos/sesion4/ejemplo1) del repositorio. 
 
 En el fichero `docker-compose.yml` vamos a definir el escenario. El programa `docker-compose` se debe ejecutar en el directorio donde este ese fichero. 
 
