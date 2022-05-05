@@ -12,7 +12,7 @@ has_children: true
 
 Ante la situación anteriormente descrita, Docker nos proporciona varias soluciones para persistir los datos de los contenedores:
 
-* Los **volumenes docker**.
+* Los **volúmenes docker**.
 * Los **bind mount**
 
 ## Redes 
@@ -23,6 +23,6 @@ Cuando instalamos docker tenemos las siguientes redes predefinidas:
 
 * Red de tipo bridge
 * Red de tipo host
-* Red de  tipo none
+* Red de tipo none
 
 
