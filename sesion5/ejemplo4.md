@@ -136,7 +136,7 @@ version: '3.1'
 services:
   app:
     container_name: contenedor_php
-    image: ej4:v1
+    image: josedom24/aplicacion_php
     restart: always
     environment:
       DB_HOST: servidor_mysql
