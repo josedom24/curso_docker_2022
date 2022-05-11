@@ -74,7 +74,7 @@ Dockerfile  index.html
 El contenido de `Dockerfile` es:
 
 ```Dockerfile
-FROM debian:buster-slim
+FROM debian
 MAINTAINER José Domingo Muñoz "josedom24@gmail.com"
 RUN apt-get update  && apt-get install -y  apache2 
 COPY index.html /var/www/html/
